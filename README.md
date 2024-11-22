@@ -95,4 +95,4 @@ This Spring Boot Blog Application is a comprehensive project designed to enhance
 This project is licensed under the MIT License.
 
 ## Contact
-For any questions or support, please contact [Your Name].
+For any questions or support, please contact Soumya Tanna.
