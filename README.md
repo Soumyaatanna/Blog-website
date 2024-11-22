@@ -32,7 +32,7 @@ This Spring Boot Blog Application is a comprehensive project designed to enhance
 ### Project Setup
 1. Clone the repository:
     ```sh
-    git clone https://github.com/YourUsername/SpringBootBlog.git
+    git clone https://github.com/soumyatanna/Blog-website.git
     cd SpringBootBlog
     ```
 
